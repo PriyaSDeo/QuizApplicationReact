@@ -15,7 +15,7 @@ import Result from './components/Result';
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter  basename="/QuizApplicationReact">
      
         <header>
             <nav>
